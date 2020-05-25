@@ -1,1 +1,3 @@
-<p>Hello World!</p>
+<% @tweets.each do |tweet| %>
+  <%= simple_format(tweet.text) %>
+<% end %>
