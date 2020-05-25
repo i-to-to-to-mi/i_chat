@@ -4,7 +4,7 @@ class CreateTweets < ActiveRecord::Migration[5.2]
       t.text        :text, null: false
       t.text        :image, null: false
       t.references :user, foreign_key: true
-      t.timestamps null: true
+      t.timestamps
     end
   end
 end
