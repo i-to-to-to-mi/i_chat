@@ -1,3 +1,5 @@
+<%= render "layouts/header" %>
 <% @tweets.each do |tweet| %>
+  <%= image_tag(tweet.image) %>
   <%= simple_format(tweet.text) %>
 <% end %>
