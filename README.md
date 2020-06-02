@@ -21,7 +21,7 @@
 
 
 # ER図
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/540209/746585b9-198d-30cc-79ba-4e9c21ac567b.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/540209/6a931a77-3b4e-e0b3-c687-0e5ccfead480.png)
 
 # DB設計
 
